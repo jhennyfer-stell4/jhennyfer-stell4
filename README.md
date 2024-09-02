@@ -7,7 +7,7 @@ Meu nome é Jhennyfer Aparecida
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo 
 
 00001114029890sp@al.educacao.sp.gov.br
 @_jh3n._
